@@ -6,7 +6,7 @@ public class Input {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		//Here we will learn about how to take input in java
-		
+		//
 		int empid;
 		int age;
 		String Gender;
